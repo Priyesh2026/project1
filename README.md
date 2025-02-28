@@ -1,3 +1,3 @@
 # project1
-this is my first project/n
+this is my first project<br>
 Welcome to the github world
